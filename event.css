@@ -1,0 +1,70 @@
+.main_container{
+    background-color: whitesmoke;
+    color: white;
+    font-family: 'poppins' , sans-serif;
+}
+
+.bannerImage{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtt3TKQd7xscjszsZ11w-SHO_7L-hVIUUog&usqp=CAU");
+    color: blue;
+    height: 190px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+input{
+    height: 50px;
+    width: 350px;
+    margin: 25px 0 0 450px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 10px 10px lightblue;
+}
+
+button {
+    background-color: blue;
+    border: none;
+    color: white;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.mainSearchcard{
+    display: flex;
+}
+
+h3{
+    text-align: center;
+}
+
+span{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+
+}
+
+.searchcard{
+    color: black;
+    box-shadow: 10px 10px 5px lightblue;
+    width: 280px;
+    height: 280px;
+    margin: 25px 25px;
+}
+
+.searchcard button{
+    margin: 10px 100px;
+}
+
+img{
+    margin-left: 70px;
+    width: 150px;
+    height: 120px;
+}
+
+.mainSearchcard2{
+    display: flex;
+}
